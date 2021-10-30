@@ -2725,6 +2725,7 @@ input, select, textarea {
 			vertical-align: middle;
 		}
 
+		
 		ul.actions.special {
 			-moz-justify-content: center;
 			-webkit-justify-content: center;
@@ -3300,6 +3301,7 @@ input, select, textarea {
 		.wrapper.style2 {
 			/* after front page, before features */
 			background-color: #313235; 
+			
 		}
 
 		.wrapper.style2-alt {

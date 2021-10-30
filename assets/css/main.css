@@ -176,7 +176,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #ffffff;
+		color: #53bba6;
 		font-weight: bold;
 		line-height: 1.5;
 		margin: 0 0 0.5em 0;
@@ -2391,7 +2391,7 @@ input, select, textarea {
 	}
 
 		select option {
-			color: #ffffff;
+			color: #121212;
 			background: #312450;
 		}
 
@@ -2582,12 +2582,15 @@ input, select, textarea {
 				}
 
 				.wrapper.style2 .icon.major:before {
-					color: #5052b5;
+					/* color: #5052b5; */
+					color: #202124;
+					
 					/* color: #09523d; */
 				}
 
 				.wrapper.style2-alt .icon.major:before {
-					color: #3e4094;
+					/* color: #3e4094; */
+					color: #202124;
 					/* color: #09523d; */
 				}
 
@@ -2795,7 +2798,7 @@ input, select, textarea {
 					-webkit-flex-shrink: 1;
 					-ms-flex-shrink: 1;
 					flex-shrink: 1;
-					padding: 1em 0 0 0;
+					padding: 0 0 0 0;
 					text-align: center;
 					width: 100%;
 				}
@@ -3296,7 +3299,7 @@ input, select, textarea {
 
 		.wrapper.style2 {
 			/* after front page, before features */
-			background-color: #5052b5; 
+			background-color: #313235; 
 		}
 
 		.wrapper.style2-alt {
